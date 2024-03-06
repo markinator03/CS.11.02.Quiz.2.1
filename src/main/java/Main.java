@@ -17,7 +17,7 @@ public class Main {
             return "Bonjour, " + name;
         }
 
-        // print resultTwo.
+        //print resultTwo.
         //System.out.println(resultTwo);
         // call the second add method and store the result into a variable called resultThree.
     public static int resultThree(int numOne, int numTwo, int numThree, int numFour){
